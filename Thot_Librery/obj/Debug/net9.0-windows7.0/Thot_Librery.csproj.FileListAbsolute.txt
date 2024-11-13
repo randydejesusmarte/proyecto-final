@@ -1,0 +1,11 @@
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\bin\Debug\net9.0-windows7.0\Thot_Librery.dll.config
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\bin\Debug\net9.0-windows7.0\Thot_Librery.deps.json
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\bin\Debug\net9.0-windows7.0\Thot_Librery.dll
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\bin\Debug\net9.0-windows7.0\Thot_Librery.pdb
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\obj\Debug\net9.0-windows7.0\Thot_Librery.csproj.AssemblyReference.cache
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\obj\Debug\net9.0-windows7.0\Thot_Librery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\obj\Debug\net9.0-windows7.0\Thot_Librery.csproj.CoreCompileInputs.cache
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\obj\Debug\net9.0-windows7.0\Thot_Librery.dll
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\obj\Debug\net9.0-windows7.0\refint\Thot_Librery.dll
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\obj\Debug\net9.0-windows7.0\Thot_Librery.pdb
+C:\Users\randy\Music\src\Proyecto Final\Thot_Librery\obj\Debug\net9.0-windows7.0\ref\Thot_Librery.dll

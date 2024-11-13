@@ -1,0 +1,11 @@
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\bin\Debug\net6.0-windows\Thot_Librery.dll.config
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\bin\Debug\net6.0-windows\Thot_Librery.deps.json
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\bin\Debug\net6.0-windows\Thot_Librery.dll
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\bin\Debug\net6.0-windows\Thot_Librery.pdb
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\obj\Debug\net6.0-windows\Thot_Librery.csproj.AssemblyReference.cache
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\obj\Debug\net6.0-windows\Thot_Librery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\obj\Debug\net6.0-windows\Thot_Librery.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\obj\Debug\net6.0-windows\Thot_Librery.dll
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\obj\Debug\net6.0-windows\refint\Thot_Librery.dll
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\obj\Debug\net6.0-windows\Thot_Librery.pdb
+C:\Users\randy\source\repos\src\Proyecto Final\Thot_Librery\obj\Debug\net6.0-windows\ref\Thot_Librery.dll
